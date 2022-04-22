@@ -24,7 +24,7 @@ let Celsius = 9
  function convertToC (C)
  { return C}
 
- function convertToF (C)
+ function convertToK (C)
  { return (C + 273.15) }
 
 
